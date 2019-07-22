@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SkyScanner</string>
+    <string name="Origin">Origin</string>
+    <string name="Destination">Destination</string>
+</resources>
